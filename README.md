@@ -2,7 +2,6 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![Built with Flask](https://img.shields.io/badge/Built%20with-Flask-yellow?logo=flask)](https://flask.palletsprojects.com/)
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com/)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](#)
 
 This project automates the resume screening process by extracting and analyzing resumes and job descriptions using Natural Language Processing (NLP) techniques. It compares skills and qualifications, calculates similarity scores, and ranks candidates based on how closely their profiles match the job requirements.
